@@ -46,15 +46,15 @@
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
         
         &--1{
-            background-image: url(../../img/plano-um.jpg);
+            background-image: url(../img/plano-um.png);
         }
 
         &--2{
-            background-image: url(../../img/plano-dois.jpg);
+            background-image: url(../img/plano-dois.png);
         }
 
         &--3{
-            background-image: url(../../img/plano-tres.jpeg);
+            background-image: url(../img/plano-tres.png);
         }
 
     }
